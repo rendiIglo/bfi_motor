@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.070_other than CGC-EGC referral name field display the default name disabled</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail</comment>
+   <testCaseGuid>5dda7b89-7d9b-4490-b090-d475e2d75d9b</testCaseGuid>
+</TestCaseEntity>

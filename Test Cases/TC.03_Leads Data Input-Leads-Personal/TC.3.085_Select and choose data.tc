@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.085_Select and choose data</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail
+Finance Info
+Popup Product Offering
+Fee</comment>
+   <testCaseGuid>b307e265-4fcf-4b55-b48b-38e99987d227</testCaseGuid>
+</TestCaseEntity>

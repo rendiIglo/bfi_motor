@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.003_create data Customer</name>
+   <tag></tag>
+   <comment>Personal Info</comment>
+   <testCaseGuid>9c1fa983-718d-4e19-9bc6-9d9c432e5a21</testCaseGuid>
+</TestCaseEntity>

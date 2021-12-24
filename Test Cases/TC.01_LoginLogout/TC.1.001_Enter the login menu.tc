@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.1.001_Enter the login menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>580530e6-eb30-4324-89d1-5384eaf2c1f2</testCaseGuid>
+</TestCaseEntity>

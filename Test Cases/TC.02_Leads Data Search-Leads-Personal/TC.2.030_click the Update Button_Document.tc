@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.030_click the Update Button_Document</name>
+   <tag></tag>
+   <comment>Address Tab
+Documents
+upload KK</comment>
+   <testCaseGuid>3119b5fe-d468-4ae5-98a7-f49753d47420</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.035.1_Leads Details Detail-Colleteral</name>
+   <tag></tag>
+   <comment>Address Tab
+Documents
+Lead Detail
+Add Row
+pop up asset code
+Finance info
+Popup Product Offering
+Fee</comment>
+   <testCaseGuid>a1b5e81f-b644-4eb0-a4d8-5440d5a63747</testCaseGuid>
+</TestCaseEntity>

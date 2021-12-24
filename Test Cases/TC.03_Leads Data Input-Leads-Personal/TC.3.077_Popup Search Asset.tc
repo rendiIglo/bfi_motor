@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.077_Popup Search Asset</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail
+Finance Info
+Popup Product Offering
+Fee</comment>
+   <testCaseGuid>0adc9f75-de61-4fec-8704-2c4d62312bf1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.078_Search Asset results by All Fields</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail
+Finance Info
+Popup Product Offering
+Fee</comment>
+   <testCaseGuid>f3ed2d0d-3b99-4000-b832-f5b3e996af02</testCaseGuid>
+</TestCaseEntity>

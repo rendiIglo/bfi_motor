@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.028_Search Zip Code based on City Kabupaten</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab</comment>
+   <testCaseGuid>536c5de1-1ced-4826-a28e-0fc0034fb632</testCaseGuid>
+</TestCaseEntity>

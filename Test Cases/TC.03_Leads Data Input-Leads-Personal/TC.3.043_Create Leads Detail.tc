@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.043_Create Leads Detail</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil</comment>
+   <testCaseGuid>63146309-d139-4347-aa55-f4cda5f1d2a8</testCaseGuid>
+</TestCaseEntity>

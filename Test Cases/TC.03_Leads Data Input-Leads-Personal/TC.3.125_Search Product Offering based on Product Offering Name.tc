@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.125_Search Product Offering based on Product Offering Name</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail
+Pop up asset code
+Popup LJK
+Finance info
+Popup Product Offering</comment>
+   <testCaseGuid>4cf113d3-2116-4e34-a1f9-b9bbb3c9eb9f</testCaseGuid>
+</TestCaseEntity>

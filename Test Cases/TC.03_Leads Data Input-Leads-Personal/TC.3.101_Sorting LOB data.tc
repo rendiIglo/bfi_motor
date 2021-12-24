@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.101_Sorting LOB data</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail
+Pop up asset code
+Popup LJK</comment>
+   <testCaseGuid>ae814206-1837-4573-b2cc-66eab78ea46a</testCaseGuid>
+</TestCaseEntity>

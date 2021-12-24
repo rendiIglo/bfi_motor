@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.071_TC.3.0.73_ Click Add Row View Button</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail</comment>
+   <testCaseGuid>ee84336a-9efa-449d-a93b-64a014733dc6</testCaseGuid>
+</TestCaseEntity>

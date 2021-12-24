@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.006_Submit the form before 30 minutes</name>
+   <tag></tag>
+   <comment>ZipCode</comment>
+   <testCaseGuid>9adb30ef-93a4-424a-b796-b81705512ee1</testCaseGuid>
+</TestCaseEntity>

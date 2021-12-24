@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.012_Filtering Leads ID field - change filtered field - Next Page button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76f55ea8-f136-40e1-bd89-9d3eb0a736e7</testCaseGuid>
+</TestCaseEntity>

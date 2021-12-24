@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AdminVer Personal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>716b1edb-086c-4ff2-b4d3-0e2206a5f5a1</testCaseGuid>
+   <variable>
+      <defaultValue>'20211101401L000021'</defaultValue>
+      <description></description>
+      <id>2078f315-013f-4046-a1ee-48949f2cdb02</id>
+      <masked>false</masked>
+      <name>LeadsIDAdminVer</name>
+   </variable>
+   <variable>
+      <defaultValue>'Yes'</defaultValue>
+      <description></description>
+      <id>cea0806a-cb6e-4f82-b5e9-528a6842a876</id>
+      <masked>false</masked>
+      <name>testNotif</name>
+   </variable>
+</TestCaseEntity>

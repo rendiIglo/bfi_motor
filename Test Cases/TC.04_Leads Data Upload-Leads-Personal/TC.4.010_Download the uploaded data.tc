@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.4.010_Download the uploaded data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfb51fd0-7684-45fb-a7c2-23d7af2c7cf4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.103_Filtering field - change filtered field - Next Page button</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail
+Pop up asset code
+Popup LJK</comment>
+   <testCaseGuid>b355b791-9640-482a-a4f8-9759c5b2812b</testCaseGuid>
+</TestCaseEntity>

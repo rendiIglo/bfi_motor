@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.026_Search Zip Code based on Kelurahan</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab</comment>
+   <testCaseGuid>68dd6160-b66c-4f4d-bfa2-7196fdf9cdd6</testCaseGuid>
+</TestCaseEntity>

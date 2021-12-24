@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Workspace</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>323771fa-5049-4ed2-8ef7-fa4a8eb447b3</testCaseGuid>
+   <variable>
+      <defaultValue>'20211101401L000021'</defaultValue>
+      <description></description>
+      <id>f1c30fc3-8578-4e24-b79c-43e836877833</id>
+      <masked>false</masked>
+      <name>LeadsIDWorkspace</name>
+   </variable>
+   <variable>
+      <defaultValue>'Yes'</defaultValue>
+      <description></description>
+      <id>1f8c3f65-4c22-4475-957f-a7dbee49a891</id>
+      <masked>false</masked>
+      <name>testNotif</name>
+   </variable>
+</TestCaseEntity>

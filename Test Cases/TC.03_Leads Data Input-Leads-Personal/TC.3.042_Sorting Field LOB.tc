@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.042_Sorting Field LOB</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents</comment>
+   <testCaseGuid>d7e93416-7477-4305-b4b4-d9eb1f042b62</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.094_Popup Search Lembaga LJK</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail
+Pop up asset code</comment>
+   <testCaseGuid>a54151ed-f49d-49bf-a14f-e531aabd3fe6</testCaseGuid>
+</TestCaseEntity>

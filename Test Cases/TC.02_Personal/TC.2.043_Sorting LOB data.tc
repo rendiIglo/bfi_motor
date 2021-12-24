@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.043_Sorting LOB data</name>
+   <tag></tag>
+   <comment>Popup ZipCode</comment>
+   <testCaseGuid>cf2e87d9-cca1-4f59-b011-b6ada1a563e9</testCaseGuid>
+</TestCaseEntity>

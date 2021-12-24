@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.044_EGC are selected in the Activity Field, Refferal Name appear</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail</comment>
+   <testCaseGuid>9b27c6ca-4a7a-4433-af3b-309219d3f83d</testCaseGuid>
+</TestCaseEntity>

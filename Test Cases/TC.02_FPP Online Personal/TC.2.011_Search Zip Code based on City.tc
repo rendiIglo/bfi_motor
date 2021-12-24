@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.011_Search Zip Code based on City</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7723bfe-3eb4-41f1-945f-fdf3bfbd0ad9</testCaseGuid>
+</TestCaseEntity>

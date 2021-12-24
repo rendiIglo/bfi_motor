@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.033.1_Leads Details click the Update Button Colleteral Info</name>
+   <tag></tag>
+   <comment>Address Tab
+Documents
+Lead Detail
+Add Row
+pop up asset code
+Finance info
+Popup Product Offering
+Fee
+Update
+pop up asset code</comment>
+   <testCaseGuid>0a19c63d-104a-4833-8e6a-1ebc1d40b0c3</testCaseGuid>
+</TestCaseEntity>

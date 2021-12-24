@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.122_Popup Search Product Offering</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail
+Pop up asset code
+Popup LJK</comment>
+   <testCaseGuid>5f4ec3d7-1246-4c24-b166-3a7b37fed542</testCaseGuid>
+</TestCaseEntity>

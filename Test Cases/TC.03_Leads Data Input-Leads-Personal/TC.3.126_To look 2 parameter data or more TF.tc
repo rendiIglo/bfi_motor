@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.126_To look 2 parameter data or more TF</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail
+Pop up asset code
+Popup LJK
+Finance info
+Popup Product Offering</comment>
+   <testCaseGuid>830bafcc-7ccc-46fb-9e22-16df0726de10</testCaseGuid>
+</TestCaseEntity>

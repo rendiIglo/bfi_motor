@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.027_Select Data is with the leads status Submitted in Grid View</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>307cf6cc-c39a-44fd-ad11-4344ea70ddd4</testCaseGuid>
+</TestCaseEntity>

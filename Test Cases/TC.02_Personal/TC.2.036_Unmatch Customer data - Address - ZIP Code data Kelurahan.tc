@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.036_Unmatch Customer data - Address - ZIP Code data Kelurahan</name>
+   <tag></tag>
+   <comment>Popup ZipCode</comment>
+   <testCaseGuid>4e6ec8f3-0947-4cd9-a547-ace16fa8a274</testCaseGuid>
+</TestCaseEntity>

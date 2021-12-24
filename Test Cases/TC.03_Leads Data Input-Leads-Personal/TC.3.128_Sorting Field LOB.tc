@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.128_Sorting Field LOB</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail
+Pop up asset code
+Popup LJK
+Finance info
+Popup Product Offering</comment>
+   <testCaseGuid>ff2d87c6-58ce-4609-a6e3-fb5b7848e77b</testCaseGuid>
+</TestCaseEntity>

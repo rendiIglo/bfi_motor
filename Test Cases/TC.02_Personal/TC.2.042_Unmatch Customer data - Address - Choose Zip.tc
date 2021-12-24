@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.042_Unmatch Customer data - Address - Choose Zip</name>
+   <tag></tag>
+   <comment>Popup ZipCode</comment>
+   <testCaseGuid>b78571cf-853e-4abe-a0b8-aca23fe6b187</testCaseGuid>
+</TestCaseEntity>

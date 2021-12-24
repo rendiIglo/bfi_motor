@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.035.2_Leads Details Detail-Finance Info</name>
+   <tag></tag>
+   <comment>Address Tab
+Documents
+Lead Detail
+Add Row
+pop up asset code
+Finance info
+Popup Product Offering
+Fee</comment>
+   <testCaseGuid>6d0015ab-4391-46c6-a4f2-f24546d39af6</testCaseGuid>
+</TestCaseEntity>

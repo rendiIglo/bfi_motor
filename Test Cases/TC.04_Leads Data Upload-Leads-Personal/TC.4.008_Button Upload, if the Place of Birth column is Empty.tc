@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.4.008_Button Upload, if the Place of Birth column is Empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>54d42d03-6831-4fe1-aab7-6a78b3c9746a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.008_Search Zip Code based on Zip Code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4589c84-4677-46ec-8e1e-db9a5b2dd979</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.025_Search Zip Code based on Zip Code</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab</comment>
+   <testCaseGuid>c9537888-ed02-4e79-80d8-245b585dc84a</testCaseGuid>
+</TestCaseEntity>

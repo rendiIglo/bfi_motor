@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.044_Filtering Zip Code field - change filtered field - Next Page button</name>
+   <tag></tag>
+   <comment>Popup ZipCode</comment>
+   <testCaseGuid>2fae8937-6edd-497f-82bd-624f4a2d8b4b</testCaseGuid>
+</TestCaseEntity>

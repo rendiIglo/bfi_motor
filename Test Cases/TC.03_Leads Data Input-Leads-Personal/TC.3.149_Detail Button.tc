@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.149_Detail Button</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail
+Finance Info
+Popup Product Offering
+Fee</comment>
+   <testCaseGuid>f362b5c5-b923-4af9-b76e-8075f37a93f1</testCaseGuid>
+</TestCaseEntity>

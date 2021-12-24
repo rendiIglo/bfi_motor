@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.4.005_Button Upload, if the Customer Name column is Empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed1b90f1-a113-46dd-8aaa-36281128aa12</testCaseGuid>
+</TestCaseEntity>

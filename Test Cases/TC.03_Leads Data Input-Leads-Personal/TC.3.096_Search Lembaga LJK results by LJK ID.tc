@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.096_Search Lembaga LJK results by LJK ID</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail
+Pop up asset code
+Popup LJK</comment>
+   <testCaseGuid>247c3e4a-5ae5-4723-8223-c68266a5733d</testCaseGuid>
+</TestCaseEntity>

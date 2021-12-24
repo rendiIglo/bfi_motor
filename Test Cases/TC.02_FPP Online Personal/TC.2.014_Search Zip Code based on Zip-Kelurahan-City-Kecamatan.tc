@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.014_Search Zip Code based on Zip-Kelurahan-City-Kecamatan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4e8bf31-b2a2-4922-beef-0a2e4d5e2580</testCaseGuid>
+</TestCaseEntity>

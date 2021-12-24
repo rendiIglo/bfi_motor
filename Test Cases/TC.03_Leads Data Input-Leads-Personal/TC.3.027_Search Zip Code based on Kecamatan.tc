@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.027_Search Zip Code based on Kecamatan</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab</comment>
+   <testCaseGuid>c9918504-57cc-4db2-9f65-5aae98dce589</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.050_Unmatch Customer data - Lead Detail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea4f2282-0bf7-47e5-9806-d69ca462d702</testCaseGuid>
+</TestCaseEntity>

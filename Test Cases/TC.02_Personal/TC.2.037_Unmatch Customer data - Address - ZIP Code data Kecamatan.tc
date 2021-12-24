@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.037_Unmatch Customer data - Address - ZIP Code data Kecamatan</name>
+   <tag></tag>
+   <comment>Popup ZipCode</comment>
+   <testCaseGuid>506bb335-ea35-43df-9f19-5362b2a632ce</testCaseGuid>
+</TestCaseEntity>

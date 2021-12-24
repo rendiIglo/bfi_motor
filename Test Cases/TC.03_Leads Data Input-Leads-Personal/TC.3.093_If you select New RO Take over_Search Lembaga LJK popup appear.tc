@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.093_If you select New RO Take over_Search Lembaga LJK popup appear</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail
+Pop up asset code</comment>
+   <testCaseGuid>7fcc2d1a-2023-4d09-94f2-4d3db6c0bb2c</testCaseGuid>
+</TestCaseEntity>

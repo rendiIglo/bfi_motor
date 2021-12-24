@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.004_Search parameter by Leads ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7d7aab0-2bac-4c07-b133-44e40eaad1e8</testCaseGuid>
+</TestCaseEntity>

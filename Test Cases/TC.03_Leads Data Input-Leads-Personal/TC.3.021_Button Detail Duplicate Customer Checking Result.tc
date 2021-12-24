@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.021_Button Detail Duplicate Customer Checking Result</name>
+   <tag></tag>
+   <comment>Personal Info</comment>
+   <testCaseGuid>5d7557c5-7375-43bd-85b4-ce9e771c4329</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.036_the submit button to complete</name>
+   <tag></tag>
+   <comment>Address Tab
+Documents
+Lead Detail
+Add Row
+pop up asset code
+Finance info
+Popup Product Offering
+Fee</comment>
+   <testCaseGuid>b279e2df-788f-4a53-a9a4-9c85a3d4eb82</testCaseGuid>
+</TestCaseEntity>

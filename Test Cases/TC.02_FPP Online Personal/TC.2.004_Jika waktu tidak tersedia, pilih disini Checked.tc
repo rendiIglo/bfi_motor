@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.004_Jika waktu tidak tersedia, pilih disini Checked</name>
+   <tag></tag>
+   <comment>ZipCode</comment>
+   <testCaseGuid>682582d3-b6d2-44e0-82a2-3696c7fdb914</testCaseGuid>
+</TestCaseEntity>

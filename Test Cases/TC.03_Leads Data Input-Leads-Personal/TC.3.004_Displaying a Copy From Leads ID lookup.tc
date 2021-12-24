@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.004_Displaying a Copy From Leads ID lookup</name>
+   <tag></tag>
+   <comment>Personal Info</comment>
+   <testCaseGuid>a7005a58-2736-4dab-a8b5-47c6e184970f</testCaseGuid>
+</TestCaseEntity>

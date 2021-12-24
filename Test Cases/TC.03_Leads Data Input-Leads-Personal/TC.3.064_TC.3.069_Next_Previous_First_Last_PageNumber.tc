@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.064_TC.3.069_Next_Previous_First_Last_PageNumber</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail</comment>
+   <testCaseGuid>6582b0c5-4cde-4c86-a8f2-d4bcbecdc08e</testCaseGuid>
+</TestCaseEntity>

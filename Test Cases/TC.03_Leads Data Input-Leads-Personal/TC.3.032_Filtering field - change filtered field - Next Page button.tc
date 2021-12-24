@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.032_Filtering field - change filtered field - Next Page button</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab</comment>
+   <testCaseGuid>fe2cfce3-3373-4d88-8139-1cf706896910</testCaseGuid>
+</TestCaseEntity>

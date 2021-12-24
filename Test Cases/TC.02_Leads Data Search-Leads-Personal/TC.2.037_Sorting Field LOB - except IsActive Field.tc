@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.037_Sorting Field LOB - except IsActive Field</name>
+   <tag></tag>
+   <comment>Address Tab
+Documents
+Lead Detail
+Add Row
+pop up asset code
+Finance info
+Popup Product Offering
+Fee</comment>
+   <testCaseGuid>5dd8a5a0-e7ba-4691-8ef3-e061e5cc33ca</testCaseGuid>
+</TestCaseEntity>

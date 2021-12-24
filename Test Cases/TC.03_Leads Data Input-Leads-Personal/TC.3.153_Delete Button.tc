@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.153_Delete Button</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail
+Popup LJK
+Finance Info
+Popup Product Offering
+Fee</comment>
+   <testCaseGuid>01ab25ae-4149-4da0-898a-13663115443f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.038_Document Upload Button</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents</comment>
+   <testCaseGuid>b25c737e-d327-404b-b925-649e665208a6</testCaseGuid>
+</TestCaseEntity>

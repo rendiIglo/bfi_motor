@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.076_Add new Collateral data in Leads Details Fee</name>
+   <tag></tag>
+   <comment>Personal Info
+Address Tab
+Documents
+upload KTP
+NPWP
+SIM
+STNK &amp; BPKB Mobil
+Lead Detail
+Finance Info
+Popup Product Offering</comment>
+   <testCaseGuid>643cc9c5-f218-4da3-870a-b975005cc7dc</testCaseGuid>
+</TestCaseEntity>
